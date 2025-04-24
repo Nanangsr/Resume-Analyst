@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-groq
+langchain-community
+python-dotenv
+python-docx
+pypdf
+unstructured
+chromadb
+sentence-transformers
+python-magic-bin==0.4.14  # Untuk Windows
